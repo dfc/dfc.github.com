@@ -1,1 +1,3 @@
-http://en.wikipedia.org/wiki/Amdahl%27s_law
+2011-08-02 12:08:45+00:00,http://en.wikipedia.org/wiki/Amdahl%27s_law
+2011-08-02 12:08:45+00:00,http://en.wikipedia.org/wiki/S%C5%8Dhei
+2011-08-02 12:08:45+00:00,http://en.wikipedia.org/wiki/Benkei
