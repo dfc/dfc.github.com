@@ -1,3 +1,5 @@
-2011-08-02 12:08:45+00:00,http://en.wikipedia.org/wiki/Amdahl%27s_law
-2011-08-02 12:08:45+00:00,http://en.wikipedia.org/wiki/S%C5%8Dhei
-2011-08-02 12:08:45+00:00,http://en.wikipedia.org/wiki/Benkei
+@400000004e37ef5a1de46d7c http://en.wikipedia.org/wiki/Amdahl%27s_law
+@400000004e37ef5a1de47164 http://en.wikipedia.org/wiki/S%C5%8Dhei
+@400000004e37ef5a1de4754c http://en.wikipedia.org/wiki/Benkei
+@400000004e37ef5a1de4754c http://en.wikipedia.org/wiki/International_Atomic_Time
+@400000004e37ef5a1de4754c http://en.wikipedia.org/wiki/Coordinated_Universal_Time
