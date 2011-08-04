@@ -6,3 +6,5 @@
 @400000004e39cc1f15ac0304 http://en.wikipedia.org/wiki/Swordsmanship
 @400000004e39eb442094b0cc http://en.wikipedia.org/wiki/Orthogonality
 @400000004e39f02e34bda3ec http://en.wikipedia.org/wiki/Samurai
+@400000004e39fd0529a2591c http://en.wikipedia.org/wiki/Piet_Mondrian
+@400000004e39fec227b59c7c http://en.wikipedia.org/wiki/Linear_algebra
