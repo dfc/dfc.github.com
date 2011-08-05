@@ -24,3 +24,4 @@
 @400000004e3b4e9b1f10b494 http://en.wikipedia.org/wiki/Cryptographic_nonce
 @400000004e3b4ebf39bc0d5c http://en.wikipedia.org/wiki/Challenge-response_authentication
 @400000004e3b4fda01a97fbc http://en.wikipedia.org/wiki/Giant%27s_Causeway
+@400000004e3b5d7f1bbb53bc http://en.wikipedia.org/wiki/Erasure_codes
