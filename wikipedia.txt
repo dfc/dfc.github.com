@@ -13,3 +13,4 @@
 @400000004e3b356a026e8d0c http://en.wikipedia.org/wiki/Sepuku
 @400000004e3b35b82febe7fc http://en.wikipedia.org/wiki/Jigai
 @400000004e3b35ea1b584074 http://en.wikipedia.org/wiki/Forty-seven_Ronin
+@400000004e3b36b61598c154 http://en.wikipedia.org/wiki/Bushid%C5%8D
