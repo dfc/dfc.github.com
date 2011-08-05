@@ -10,3 +10,4 @@
 @400000004e39fec227b59c7c http://en.wikipedia.org/wiki/Linear_algebra
 @400000004e3a18ee0b18995c http://en.wikipedia.org/wiki/Double_Seven_Day_scuffle
 @400000004e3a2c833092de2c http://en.wikipedia.org/wiki/Comfort_women
+@400000004e3b356a026e8d0c http://en.wikipedia.org/wiki/Sepuku
