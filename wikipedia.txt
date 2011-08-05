@@ -22,4 +22,4 @@
 @400000004e3b4af904e9493c http://en.wikipedia.org/wiki/PGP_word_list
 @400000004e3b4b062994b104 http://en.wikipedia.org/wiki/Carnegie_Classification_of_Institutions_of_Higher_Education
 @400000004e3b4e9b1f10b494 http://en.wikipedia.org/wiki/Cryptographic_nonce
-@400000004e3b4ebf39bc0d5c http://en.wikipedia.org/wiki/Challenge-response_authentication#Simple_Example_mutual_authentication_sequence
+@400000004e3b4ebf39bc0d5c http://en.wikipedia.org/wiki/Challenge-response_authentication
