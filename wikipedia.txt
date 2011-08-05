@@ -11,3 +11,4 @@
 @400000004e3a18ee0b18995c http://en.wikipedia.org/wiki/Double_Seven_Day_scuffle
 @400000004e3a2c833092de2c http://en.wikipedia.org/wiki/Comfort_women
 @400000004e3b356a026e8d0c http://en.wikipedia.org/wiki/Sepuku
+@400000004e3b35b82febe7fc http://en.wikipedia.org/wiki/Jigai
