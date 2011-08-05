@@ -19,3 +19,4 @@
 @400000004e3b3a4f1a135c94 http://en.wikipedia.org/wiki/Ronin
 @400000004e3b3a8c35c39e54 http://en.wikipedia.org/wiki/Bud%C5%8D
 @400000004e3b3a9b1b3dea44 http://en.wikipedia.org/wiki/Hagakure
+@400000004e3b4af904e9493c http://en.wikipedia.org/wiki/PGP_word_list
