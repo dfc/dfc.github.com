@@ -30,3 +30,4 @@
 @400000004e3da89a011f8b54 http://en.wikipedia.org/wiki/Nakir
 @400000004e3db1520e85d3ac http://en.wikipedia.org/wiki/Bicycle_brake
 @400000004e3db1f70db7c1c4 http://en.wikipedia.org/wiki/Bicycle_messenger
+@400000004e3dc9a12217b304 http://en.wikipedia.org/wiki/Shinto
