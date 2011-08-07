@@ -43,3 +43,4 @@
 @400000004e3e597e34d189ac http://en.wikipedia.org/wiki/Diehard_tests
 @400000004e3e5b1332a76264 http://en.wikipedia.org/wiki/Lamport_signature
 @400000004e3e5b1a2206328c http://en.wikipedia.org/wiki/Book_of_Enoch
+@400000004e3e7e8c2d607a5c http://en.wikipedia.org/wiki/Satellite_imagery
