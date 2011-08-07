@@ -39,3 +39,4 @@
 @400000004e3e41dd0856c20c http://en.wikipedia.org/wiki/Global_Positioning_System
 @400000004e3e4bc028032424 http://en.wikipedia.org/wiki/SHA-1
 @400000004e3e4c0334281e94 http://en.wikipedia.org/wiki/Avalanche_effect
+@400000004e3e4c2e1db94a84 http://en.wikipedia.org/wiki/Confusion_and_diffusion
