@@ -32,3 +32,4 @@
 @400000004e3db1f70db7c1c4 http://en.wikipedia.org/wiki/Bicycle_messenger
 @400000004e3dc9a12217b304 http://en.wikipedia.org/wiki/Shinto
 @400000004e3e4029283d3b3c http://en.wikipedia.org/wiki/White_noise
+@400000004e3e404f05507f1c http://en.wikipedia.org/wiki/Hardware_random_number_generator
