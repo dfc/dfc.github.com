@@ -41,3 +41,4 @@
 @400000004e3e4c0334281e94 http://en.wikipedia.org/wiki/Avalanche_effect
 @400000004e3e4c2e1db94a84 http://en.wikipedia.org/wiki/Confusion_and_diffusion
 @400000004e3e597e34d189ac http://en.wikipedia.org/wiki/Diehard_tests
+@400000004e3e5b1332a76264 http://en.wikipedia.org/wiki/Lamport_signature
