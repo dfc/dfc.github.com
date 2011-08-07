@@ -36,3 +36,4 @@
 @400000004e3e4164314e371c http://en.wikipedia.org/wiki/Clock_drift
 @400000004e3e41780f72a4ac http://en.wikipedia.org/wiki/Cryptographically_secure_pseudorandom_number_generator
 @400000004e3e4198137796d4 http://en.wikipedia.org/wiki/Clock_skew
+@400000004e3e41dd0856c20c http://en.wikipedia.org/wiki/Global_Positioning_System
