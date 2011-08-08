@@ -45,3 +45,4 @@
 @400000004e3e5b1a2206328c http://en.wikipedia.org/wiki/Book_of_Enoch
 @400000004e3e7e8c2d607a5c http://en.wikipedia.org/wiki/Satellite_imagery
 @400000004e404db21dc617dc http://en.wikipedia.org/wiki/RDX
+@400000004e404e103994ce7c http://en.wikipedia.org/wiki/Brisance
