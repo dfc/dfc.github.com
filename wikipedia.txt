@@ -48,3 +48,4 @@
 @400000004e404e103994ce7c http://en.wikipedia.org/wiki/Brisance
 @400000004e404e37056829b4 http://en.wikipedia.org/wiki/Pyrotechnic_fastener
 @400000004e404eac1cd45924 http://en.wikipedia.org/wiki/Frangible_nut
+@400000004e404ece121422bc http://en.wikipedia.org/wiki/Metal_foam
