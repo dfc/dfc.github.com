@@ -52,3 +52,4 @@
 @400000004e404eea1b9bc984 http://en.wikipedia.org/wiki/Orthography
 @400000004e405bc7022f789c http://en.wikipedia.org/wiki/Nikah_mut%E2%80%98ah
 @400000004e40a8ad010d301c http://en.wikipedia.org/wiki/Continental_philosophy
+@400000004e40a8d8101a083c http://en.wikipedia.org/wiki/Analytic_philosophy
