@@ -54,3 +54,4 @@
 @400000004e40a8ad010d301c http://en.wikipedia.org/wiki/Continental_philosophy
 @400000004e40a8d8101a083c http://en.wikipedia.org/wiki/Analytic_philosophy
 @400000004e445bdd1b4af61c http://en.wikipedia.org/wiki/United_States_Naval_Special_Warfare_Development_Group
+@400000004e445be204f87fc4 http://en.wikipedia.org/wiki/MultiCam
