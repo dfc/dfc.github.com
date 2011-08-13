@@ -57,3 +57,4 @@
 @400000004e445be204f87fc4 http://en.wikipedia.org/wiki/MultiCam
 @400000004e445da42ba8db64 http://en.wikipedia.org/wiki/Imagery_intelligence
 @400000004e46146b0d818ec4 http://en.wikipedia.org/wiki/Medal_of_Honor
+@400000004e4614763a09a4a4 http://en.wikipedia.org/wiki/Presidential_Medal_of_Freedom
