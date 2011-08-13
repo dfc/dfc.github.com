@@ -59,3 +59,4 @@
 @400000004e46146b0d818ec4 http://en.wikipedia.org/wiki/Medal_of_Honor
 @400000004e4614763a09a4a4 http://en.wikipedia.org/wiki/Presidential_Medal_of_Freedom
 @400000004e46855c20e59ba4 http://en.wikipedia.org/wiki/Twenty-second_Amendment_to_the_United_States_Constitution
+@400000004e4685ee2001ea94 http://en.wikipedia.org/wiki/United_States_presidential_line_of_succession
