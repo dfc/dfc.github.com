@@ -66,3 +66,4 @@
 @400000004e468f6b2bf21964 http://en.wikipedia.org/wiki/Neck_order
 @400000004e468f8314841534 http://en.wikipedia.org/wiki/Tomb_of_the_Unknowns
 @400000004e468fad13780fec http://en.wikipedia.org/wiki/Military_rites
+@400000004e468fb413c14a04 http://en.wikipedia.org/wiki/3rd_United_States_Infantry_Regiment
