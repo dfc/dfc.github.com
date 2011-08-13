@@ -56,3 +56,4 @@
 @400000004e445bdd1b4af61c http://en.wikipedia.org/wiki/United_States_Naval_Special_Warfare_Development_Group
 @400000004e445be204f87fc4 http://en.wikipedia.org/wiki/MultiCam
 @400000004e445da42ba8db64 http://en.wikipedia.org/wiki/Imagery_intelligence
+@400000004e46146b0d818ec4 http://en.wikipedia.org/wiki/Medal_of_Honor
