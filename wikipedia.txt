@@ -69,3 +69,4 @@
 @400000004e468fb413c14a04 http://en.wikipedia.org/wiki/3rd_United_States_Infantry_Regiment
 @400000004e47e15b26272894 http://en.wikipedia.org/wiki/Qualitex_Co._v._Jacobson_Products_Co.,_Inc.
 @400000004e481d483ad2672c http://en.wikipedia.org/wiki/Perfect_forward_secrecy
+@400000004e481d57396cbcac http://en.wikipedia.org/wiki/Path_dependence
