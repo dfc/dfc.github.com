@@ -72,3 +72,4 @@
 @400000004e481d57396cbcac http://en.wikipedia.org/wiki/Path_dependence
 @400000004e48272d2de1b07c http://en.wikipedia.org/wiki/Gresham%27s_law
 @400000004e4831c809e61c6c http://en.wikipedia.org/wiki/Shell_sort
+@400000004e4998cf0b27bc5c http://en.wikipedia.org/wiki/Lemming
