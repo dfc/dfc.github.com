@@ -75,3 +75,4 @@
 @400000004e4998cf0b27bc5c http://en.wikipedia.org/wiki/Lemming
 @400000004e499b9b37abbb5c http://en.wikipedia.org/wiki/Forward_assist
 @400000004e499ed821916fec http://en.wikipedia.org/wiki/Heraldry
+@400000004e499fb6354ef324 http://en.wikipedia.org/wiki/United_States_Flag_Code
