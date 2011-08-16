@@ -83,3 +83,4 @@
 @400000004e49a3701ac3b134 http://en.wikipedia.org/wiki/21-gun_salute
 @400000004e4a1f09162cb454 http://en.wikipedia.org/wiki/Co-principality
 @400000004e4a1f58275705a4 http://en.wikipedia.org/wiki/Body_politic
+@400000004e4a1f651487ce54 http://en.wikipedia.org/wiki/Principality
