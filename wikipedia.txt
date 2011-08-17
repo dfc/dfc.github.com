@@ -84,3 +84,4 @@
 @400000004e4a1f09162cb454 http://en.wikipedia.org/wiki/Co-principality
 @400000004e4a1f58275705a4 http://en.wikipedia.org/wiki/Body_politic
 @400000004e4a1f651487ce54 http://en.wikipedia.org/wiki/Principality
+@400000004e4c4de913ef10c4 http://en.wikipedia.org/wiki/Plumeria
