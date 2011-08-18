@@ -89,3 +89,4 @@
 @400000004e4d89d6034f213c http://en.wikipedia.org/wiki/Spyderco
 @400000004e4d957f27c3ec8c http://en.wikipedia.org/wiki/Balisong_%28knife%29
 @400000004e4d95e3384520e4 http://en.wikipedia.org/wiki/Shake_%28shingle%29
+@400000004e4d96430da8e12c http://en.wikipedia.org/wiki/Wood_shingle
