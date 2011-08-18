@@ -86,3 +86,4 @@
 @400000004e4a1f651487ce54 http://en.wikipedia.org/wiki/Principality
 @400000004e4c4de913ef10c4 http://en.wikipedia.org/wiki/Plumeria
 @400000004e4c4df33a7b32f4 http://en.wikipedia.org/wiki/Diceware
+@400000004e4d89d6034f213c http://en.wikipedia.org/wiki/Spyderco
