@@ -90,3 +90,4 @@
 @400000004e4d957f27c3ec8c http://en.wikipedia.org/wiki/Balisong_%28knife%29
 @400000004e4d95e3384520e4 http://en.wikipedia.org/wiki/Shake_%28shingle%29
 @400000004e4d96430da8e12c http://en.wikipedia.org/wiki/Wood_shingle
+@400000004e4ddf282d12046c http://en.wikipedia.org/wiki/Nobel_Prize#Prizes
