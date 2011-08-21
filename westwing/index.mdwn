@@ -124,58 +124,122 @@ Current rank undecided (in alphabetical order):
 
 ### Stackhouse Filibuster
 
-#### Jhn Hoynes to Toby
+#### John Hoynes to Toby
 
 > "Toby, the total tonnage of what I know that you don't could stun a team of 
 > oxen in its tracks. Good night."
 
+### Two Cathedrals
+
+#### President Bartlett
+
+> "You're a son-of-a-bitch, you know that?
+
+> She bought her first new car and you hit her with a drunk 
+> driver. What, was that supposed to be funny? 
+
+> 'You can't conceive, nor can I, the appalling strangeness of the mercy of 
+> God,' says Graham Greene. I don't know who's ass he was kissing there 'cause I 
+> think you're just vindictive. 
+
+> What was Josh Lyman? A warning shot? That was my son. What did I ever do to 
+> yours except praise his glory and praise his name?
+
+> There's a tropical storm that gaining speed and power. They say we haven't 
+> had a storm this bad since you took out the tender ship of mine last year in 
+> the north Atlantic last year... 68 crew. Do you know what a tender ship does? 
+> Fixes the other ships. Doesn't even carry guns. Floats around and fixes the 
+> other ships and delivers that mail. That's all it can do.
+
+> Gratias tibi ago, domine. Yes, I lied. It was a sin. I've committed many sins. 
+> Have I displeased you, you feckless thug? 3.8 million new jobs, that wasn't 
+> good? Bailed out Mexico, increased foreign trade, 30 million new acres for 
+> conservation, put Mendoza on the bench, we're not fighting a war, I've raised 
+> three children...
+
+> That's not enough to buy me out of the doghouse? Haec credam a deo pio? A deo 
+> iusto? A deo scito?
+
+> Cruciatus in crucem! Tuus in terra servus nuntius fui officium perfeci.  
+> Cruciatus in crucem. Eas in crucem!"
+
+
+
 # Full Episode List
 
-* Season One
-    #. Pilot
-    #. Post Hoc, Ergo Propter Hoc
-    #. A Proportional Response
-    #. Five Votes Down
-    #. The Crackpots and These Women
-    #. Mr. Willis of Ohio
-    #. The State Dinner
-    #. Enemies
-    #. The Short List
-    #. In Excelsis Deo
-    #. Lord John Marbury
-    #. He Shall, From Time To Time...
-    #. Take Out The Trash Day
-    #. Take This Sabbath Day
-    #. Celestial Navigation
-    #. 20 Hours in L.A.
-    #. The White House Pro-Am
-    #. Six Meetings Before Lunch
-    #. Let Bartlet Be Bartlet
-    #. Mandatory Minimums
-    #. Lies, Damn Lies and Statistics
-    #. What Kind of Day Has It Been
+## Season One
 
-* Season Two
-    #. In the Shadow of Two Gunmen (Part 1)
-    #. In the Shadow of Two Gunmen (Part 2)
-    #. The Midterms
-    #. In This White House
-    #. And It's Surely to Their Credit
-    #. The Lame Duck Congress
-    #. The Portland Trip
-    #. Shibboleth
-    #. Galileo
-    #. Noël
-    #. The Leadership Breakfast
-    #. The Drop-In
-    #. Bartlet's Third State of the Union
-    #. The War at Home
-    #. Ellie
-    #. Somebody's Going to Emergency, Somebody's Going to Jail
-    #. The Stackhouse Filibuster
-    #. 17 People
-    #. Bad Moon Rising
-    #. The Fall's Gonna Kill You
-    #. 18th and Potomac
-    #. Two Cathedrals
+#. Pilot
+#. Post Hoc, Ergo Propter Hoc
+#. A Proportional Response
+#. Five Votes Down
+#. The Crackpots and These Women
+#. Mr. Willis of Ohio
+#. The State Dinner
+#. Enemies
+#. The Short List
+#. In Excelsis Deo
+#. Lord John Marbury
+#. He Shall, From Time To Time...
+#. Take Out The Trash Day
+#. Take This Sabbath Day
+#. Celestial Navigation
+#. 20 Hours in L.A.
+#. The White House Pro-Am
+#. Six Meetings Before Lunch
+#. Let Bartlet Be Bartlet
+#. Mandatory Minimums
+#. Lies, Damn Lies and Statistics
+#. What Kind of Day Has It Been
+
+## Season Two
+
+#. In the Shadow of Two Gunmen (Part 1)
+#. In the Shadow of Two Gunmen (Part 2)
+#. The Midterms
+#. In This White House
+#. And It's Surely to Their Credit
+#. The Lame Duck Congress
+#. The Portland Trip
+#. Shibboleth
+#. Galileo
+#. Noël
+#. The Leadership Breakfast
+#. The Drop-In
+#. Bartlet's Third State of the Union
+#. The War at Home
+#. Ellie
+#. Somebody's Going to Emergency, Somebody's Going to Jail
+#. The Stackhouse Filibuster
+#. 17 People
+#. Bad Moon Rising
+#. The Fall's Gonna Kill You
+#. 18th and Potomac
+#. Two Cathedrals
+
+## Season Three
+
+#. Isaac and Ishmael
+#. Manchester (Part 1)
+#. Manchester (Part 2)
+#. Ways and Means
+#. On the Day Before
+#. War Crimes
+#. Gone Quiet
+#. The Indians in the Lobby
+#. The Women of Qumar
+#. Bartlet For America
+#. H.CON - 172
+#. 100,000 Airplanes
+#. The Two Bartlets
+#. Season 3 Cast 	Night Five
+#. Hartsfield's Landing
+#. Dead Irish Writers
+#. The U.S. Poet Laureate
+#. Stirred
+#. Documentary Special
+#. Enemies Foreign and Domestic
+#. The Black Vera Wang
+#. We Killed Yamamoto
+#. Posse Comitatus
 
