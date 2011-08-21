@@ -92,3 +92,4 @@
 @400000004e4d96430da8e12c http://en.wikipedia.org/wiki/Wood_shingle
 @400000004e4ddf282d12046c http://en.wikipedia.org/wiki/Nobel_Prize#Prizes
 @400000004e50a01c18530724 http://en.wikipedia.org/wiki/Gall%E2%80%93Peters_projection
+@400000004e50a0373b9a3f54 http://en.wikipedia.org/wiki/Philistinism
