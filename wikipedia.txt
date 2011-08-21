@@ -94,3 +94,4 @@
 @400000004e50a01c18530724 http://en.wikipedia.org/wiki/Gall%E2%80%93Peters_projection
 @400000004e50a0373b9a3f54 http://en.wikipedia.org/wiki/Philistinism
 @400000004e50a2520bb9944c http://en.wikipedia.org/wiki/Yalta_Conference
+@400000004e50a31b2321d7d4 http://en.wikipedia.org/wiki/Rhetoric
