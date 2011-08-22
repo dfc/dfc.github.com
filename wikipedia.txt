@@ -116,3 +116,4 @@
 @400000004e52294634f5caec http://en.wikipedia.org/wiki/Red_Mass
 @400000004e5284051272d4ec http://en.wikipedia.org/wiki/Damascus_steel
 @400000004e52904a112778cc http://en.wikipedia.org/wiki/Incendiary_device
+@400000004e52905f0b52b45c en.wikipedia.org/wiki/High_explosive
