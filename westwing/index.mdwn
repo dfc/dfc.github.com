@@ -272,6 +272,77 @@ Current rank undecided (in alphabetical order):
 
 
 
+## Season Four
+
+### 20 Hours in America
+
+#### President Bartlett Speech
+
+> "...More than any time in recent history, America's destiny is not of our own
+> choosing. We did not seek nor did we provoke an assault on our freedoms and 
+> our way of life. We did not expect nor did we invite a confrontation with 
+> evil. Yet the true measure of a people's strength is how they rise to master 
+> that moment when it does arrive.
+
+> Forty-four people were killed a couple hours ago at Kennison State University; 
+> three swimmers from the men's team were killed and two others are in critical 
+> condition; when after having heard the explosion from their practice facility 
+> they ran into the fire to help get people out--ran into the fire. 
+
+> The streets of heaven are too crowded with angels tonight. They're our 
+> students and our teachers and our parents and our friends. The streets of 
+> heaven are too crowded with angels, but every time we think we have measured 
+> our capacity to meet a challenge, we look up and we're reminded that that 
+> capacity may well be limitless. This is a time for American heroes. We will do 
+> what is hard. We will achieve what is great. This is a time for American 
+> heroes and we reach for the stars. God bless their memory, God bless you, and 
+> God bless the United States of America."
+
+### College Kids
+
+### The Red Mass
+
+### Debate Camp
+
+### Game On
+
+### Election Night
+
+### Process Stories
+
+### Swiss Diplomacy
+
+### Arctic Radar
+
+### Holy Night
+
+### Guns Not Butter
+
+### The Long Goodbye
+
+### Inauguration
+
+### Inauguration: Over There
+
+### California 47th
+
+### Red Haven's on Fire
+
+### Privateers
+
+### Angel Maintenance
+
+### Evidence of Things Not Seen
+
+### Life on Mars
+
+### Commencement
+
+### Twenty Five
+
+
+
+
 # More Info 
 
 ## Useful Links 
@@ -346,7 +417,7 @@ Current rank undecided (in alphabetical order):
 #. H.CON - 172
 #. 100,000 Airplanes
 #. The Two Bartlets
-#. Season 3 Cast 	Night Five
+#. Night Five
 #. Hartsfield's Landing
 #. Dead Irish Writers
 #. The U.S. Poet Laureate
@@ -357,3 +428,27 @@ Current rank undecided (in alphabetical order):
 #. We Killed Yamamoto
 #. Posse Comitatus
 
+### Season Four
+
+#. 20 Hours in America
+#. College Kids
+#. The Red Mass
+#. Debate Camp
+#. Game On
+#. Election Night
+#. Process Stories
+#. Swiss Diplomacy
+#. Arctic Radar
+#. Holy Night
+#. Guns Not Butter
+#. The Long Goodbye
+#. Inauguration
+#. Inauguration: Over There
+#. California 47th
+#. Red Haven's on Fire
+#. Privateers
+#. Angel Maintenance
+#. Evidence of Things Not Seen
+#. Life on Mars
+#. Commencement
+#. Twenty Five
