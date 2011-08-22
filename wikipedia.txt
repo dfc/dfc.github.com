@@ -106,3 +106,4 @@
 @400000004e51f05e07c90cb4 http://en.wikipedia.org/wiki/United_States_v._Reynolds
 @400000004e520499327ceb4c http://en.wikipedia.org/wiki/Yom_Kippur
 @400000004e520b4b20252dec http://en.wikipedia.org/wiki/Niddah
+@400000004e520b4b274ee784 http://en.wikipedia.org/wiki/Red_heifer
