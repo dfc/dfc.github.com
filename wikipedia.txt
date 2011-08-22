@@ -107,3 +107,4 @@
 @400000004e520499327ceb4c http://en.wikipedia.org/wiki/Yom_Kippur
 @400000004e520b4b20252dec http://en.wikipedia.org/wiki/Niddah
 @400000004e520b4b274ee784 http://en.wikipedia.org/wiki/Red_heifer
+@400000004e520b4b28c92b74 http://en.wikipedia.org/wiki/Mikvah
