@@ -111,3 +111,4 @@
 @400000004e520b4b2a6a4c9c http://en.wikipedia.org/wiki/Mishpat_Ivri
 @400000004e520b4b2bede344 http://en.wikipedia.org/wiki/Tzniut
 @400000004e520b4b2da0139c http://en.wikipedia.org/wiki/Ashkenazi_Jews
+@400000004e520b4b2f1dab1c http://en.wikipedia.org/wiki/Sephardi_Jews
