@@ -129,3 +129,4 @@
 @400000004e5702750753add4 http://en.wikipedia.org/wiki/Time_standard
 @400000004e57027509f71bfc http://en.wikipedia.org/wiki/Time_signal
 @400000004e5702750b7e777c http://en.wikipedia.org/wiki/Global_Positioning_System
+@400000004e5702750d1fbfb4 http://en.wikipedia.org/wiki/Differential_GPS
