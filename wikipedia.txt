@@ -137,3 +137,4 @@
 @400000004e570275172dc8d4 http://en.wikipedia.org/wiki/Civil_time
 @400000004e572438166957c4 http://en.wikipedia.org/wiki/United_States_Marine_Corps
 @400000004e574b531d94de4c http://en.wikipedia.org/wiki/Precision_Time_Protocol
+@400000004e574b61208802b4 http://en.wikipedia.org/wiki/PTPd
