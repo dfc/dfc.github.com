@@ -264,59 +264,78 @@ Current rank undecided (in alphabetical order):
 
 #### Tobay and President Bartlett
 
-> Toby 
->   ~ Well, there's always been a concern... about the two Bartlets. [beat] The
->     absent-minded professor with the 'Aw, Dad' sense of humor. Disarming and 
->     unthreatening. Good for all time zones. And the Nobel Laureate. Still 
->     searching for salvation. Lonely, frustrated. Lethal.
-> Bartlet
->   ~ You're gonna sing a country western song?
-> Toby
->   ~ The one whose father never liked him because he was too smart.
-> Bartlet
->   ~ This stopped being fun for me a little while ago.
-> Toby
->   ~ Sir?
+Toby 
+  ~ Well, there's always been a concern... about the two Bartlets. [beat] The
+    absent-minded professor with the 'Aw, Dad' sense of humor. Disarming and 
+    unthreatening. Good for all time zones. And the Nobel Laureate. Still 
+    searching for salvation. Lonely, frustrated. Lethal.
+Bartlet
+  ~ You're gonna sing a country western song?
+Toby
+  ~ The one whose father never liked him because he was too smart.
+Bartlet
+  ~ This stopped being fun for me a little while ago.
+Toby
+  ~ Sir?
+
 
 Bartlet
   ~ It was actually never fun for me. I was just being polite.
+
 Toby
   ~ Your father used to hit you, didn't he, Mr. President?
+
 Bartlet
   ~ Excuse me?
+
 Toby
   ~ Your father used to hit you, sir?
+
 Bartlet
   ~ Yeah.
+
 Toby
   ~ Not like a spanking.
+
 Bartlet
   ~ He hit me. Why?
+
 Toby
   ~ He punched you.
+
 Bartlet
   ~ I'm done being polite now.
+
 Toby
   ~ He did it because you made him mad, but you didn't know why.
+
 Bartlet
   ~ Toby, it was a complicated relationship. Can I help you?
+
 Toby
   ~ It was because you were smarter than he was.
+
 Bartlet
   ~ It was a complicated relationship.
+
 Toby 
   ~ He didn't like you, sir. That's why he hit you. That's why people hit each 
 other. He didn't like you. You were smarter than he was.
+
 Bartlet
   ~ Why are we talking about this?
+
 Toby
   ~ So maybe if you get enough votes, win one more election, maybe your father
 will--
+
 Bartlet 
   ~ You have stepped WAY over the line, and any other President would have 
 your ass on the sidewalk right now.
+
 Toby
   ~ Yes, sir.
+
 Bartlet 
   ~ They would've had you on the sidewalk a long time ago. [firmly] I don't know 
 what the hell goes on in a Brooklyn shrink's office, but get it the hell out of my house!
