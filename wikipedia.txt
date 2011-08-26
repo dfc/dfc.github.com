@@ -118,3 +118,4 @@
 @400000004e52904a112778cc http://en.wikipedia.org/wiki/Incendiary_device
 @400000004e52905f0b52b45c en.wikipedia.org/wiki/High_explosive
 @400000004e55d4ca0744b1e4 http://en.wikipedia.org/wiki/Cinquain
+@400000004e5702741bf6b6dc http://en.wikipedia.org/wiki/Coordinated_Universal_Time
