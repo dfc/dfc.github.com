@@ -126,3 +126,4 @@
 @400000004e57027500ced344 http://en.wikipedia.org/wiki/American_Samoa
 @400000004e57027502758634 http://en.wikipedia.org/wiki/United_Nations_list_of_Non-Self-Governing_Territories
 @400000004e57027503f3f874 http://en.wikipedia.org/wiki/Territories_of_the_United_States
+@400000004e5702750753add4 http://en.wikipedia.org/wiki/Time_standard
