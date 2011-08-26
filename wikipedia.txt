@@ -121,3 +121,4 @@
 @400000004e5702741bf6b6dc http://en.wikipedia.org/wiki/Coordinated_Universal_Time
 @400000004e57027433d6be8c http://en.wikipedia.org/wiki/DUT1
 @400000004e57027437ab8894 http://en.wikipedia.org/wiki/Universal_Time
+@400000004e570274392ff22c http://en.wikipedia.org/wiki/Einstein_synchronization
