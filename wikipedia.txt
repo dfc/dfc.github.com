@@ -132,3 +132,4 @@
 @400000004e5702750d1fbfb4 http://en.wikipedia.org/wiki/Differential_GPS
 @400000004e5702750ea9e9f4 http://en.wikipedia.org/wiki/Wide_Area_Augmentation_System
 @400000004e57027510504ec4 http://en.wikipedia.org/wiki/Unix_time
+@400000004e57027511cd655c http://en.wikipedia.org/wiki/International_Atomic_Time
