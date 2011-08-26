@@ -135,3 +135,4 @@
 @400000004e57027511cd655c http://en.wikipedia.org/wiki/International_Atomic_Time
 @400000004e57027515a4cf44 http://en.wikipedia.org/wiki/Julian_day
 @400000004e570275172dc8d4 http://en.wikipedia.org/wiki/Civil_time
+@400000004e572438166957c4 http://en.wikipedia.org/wiki/United_States_Marine_Corps
