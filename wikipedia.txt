@@ -139,3 +139,4 @@
 @400000004e574b531d94de4c http://en.wikipedia.org/wiki/Precision_Time_Protocol
 @400000004e574b61208802b4 http://en.wikipedia.org/wiki/PTPd
 @400000004e57db9c395b28ac http://en.wikipedia.org/wiki/Robbins_theorem
+@400000004e585cc40097737c http://en.wikipedia.org/wiki/Usufruct
