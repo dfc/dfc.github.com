@@ -144,3 +144,4 @@
 @400000004e5866f80795cf84 http://en.wikipedia.org/wiki/Topology
 @400000004e5866f8091dee54 http://en.wikipedia.org/wiki/Typography
 @400000004e58a6942465a274 http://en.wikipedia.org/wiki/Franking
+@400000004e58a6b90a1a151c http://en.wikipedia.org/wiki/Universal_Postal_Union
