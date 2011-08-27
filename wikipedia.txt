@@ -142,3 +142,4 @@
 @400000004e585cc40097737c http://en.wikipedia.org/wiki/Usufruct
 @400000004e5866f732bbd4c4 http://en.wikipedia.org/wiki/Orthography
 @400000004e5866f80795cf84 http://en.wikipedia.org/wiki/Topology
+@400000004e5866f8091dee54 http://en.wikipedia.org/wiki/Typography
