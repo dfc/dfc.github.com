@@ -1,0 +1,632 @@
+[![image](/images/buttons/pacer/help.jpg)](http://www.ca1.uscourts.gov/nshelp.htm)
+[![image](/images/buttons/pacer/wp_format.jpg)](http://www.ca1.uscourts.gov/wp.opinions/10-1764P.01A)
+[![image](/images/buttons/pacer/pdf_format.jpg)](http://www.ca1.uscourts.gov/pdf.opinions/10-1764P-01A.pdf)
+
+\
+
+United States Court of Appeals
+
+For the First Circuit
+
+* * * * *
+
+\
+ \
+
+No. 10-1764
+
+\
+
+SIMON GLIK,
+
+\
+
+Plaintiff, Appellee,
+
+\
+
+v.
+
+\
+
+JOHN CUNNIFFE, in his individual capacity; PETER J. SAVALIS, in his
+individual capacity; JEROME HALL-BREWSTER, in his individual capacity;
+CITY OF BOSTON,
+
+\
+
+Defendants, Appellants.
+
+\
+
+* * * * *
+
+\
+ \
+
+APPEAL FROM THE UNITED STATES DISTRICT COURT
+
+FOR THE DISTRICT OF MASSACHUSETTS
+
+[Hon. William G. Young, U.S. District Judge]
+
+\
+
+* * * * *
+
+\
+ \
+
+Before
+
+Torruella, Lipez, and Howard,
+
+Circuit Judges.
+
+\
+
+* * * * *
+
+\
+ \
+
+Ian D. Prior, Assistant Corporation Counsel, City of Boston Law
+Department, with whom William F. Sinnott, Corporation Counsel, and Lisa
+Skehill Maki, Assistant Corporation Counsel, were on brief, for
+appellants.
+
+David Milton, with whom Howard Friedman, Law Offices of Howard Friedman,
+P.C., Sarah Wunsch, and ACLU of Massachusetts were on brief, for
+appellee.
+
+Anjana Samant and Center for Constitutional Rights on brief for Berkeley
+Copwatch, Communities United Against Police Brutality, Justice
+Committee, Milwaukee Police Accountability Coalition, Nodutdol for
+Korean Community Development, and Portland Copwatch, amici curiae.
+
+\
+ \
+
+\
+
+August 26, 2011
+
+\
+ \
+
+LIPEZ, Circuit Judge. Simon Glik was arrested for using his cell phone's
+digital video camera to film several police officers arresting a young
+man on the Boston Common. The charges against Glik, which included
+violation of Massachusetts's wiretap statute and two other state-law
+offenses, were subsequently judged baseless and were dismissed. Glik
+then brought this suit under 42 U.S.C. § 1983, claiming that his arrest
+for filming the officers constituted a violation of his rights under the
+First and Fourth Amendments.
+
+In this interlocutory appeal, the defendant police officers challenge an
+order of the district court denying them qualified immunity on Glik's
+constitutional claims. We conclude, based on the facts alleged, that
+Glik was exercising clearly-established First Amendment rights in
+filming the officers in a public space, and that his clearly-established
+Fourth Amendment rights were violated by his arrest without probable
+cause. We therefore affirm.
+
+I.
+
+We recite the pertinent facts based upon the allegations of the
+complaint, Asociación de Subscripción Conjunta del Seguro de
+Responsabilidad Obligatorio v. Flores Galarza, 484 F.3d 1, 6 (1st Cir.
+2007), "accepting all well-pleaded facts in the complaint as true,"
+Sanchez v. Pereira-Castillo, 590 F.3d 31, 36, 52 n.15 (1st Cir. 2009).
+
+As he was walking past the Boston Common on the evening of October 1,
+2007, Simon Glik caught sight of three police officers -- the individual
+defendants here -- arresting a young man. Glik heard another bystander
+say something to the effect of, "You are hurting him, stop." Concerned
+that the officers were employing excessive force to effect the arrest,
+Glik stopped roughly ten feet away and began recording video footage of
+the arrest on his cell phone.
+
+After placing the suspect in handcuffs, one of the officers turned to
+Glik and said, "I think you have taken enough pictures." Glik replied,
+"I am recording this. I saw you punch him." An officer
+[![Footnote](/images/footnoteicon.gif)](javascript:WPShow('WPFootnote1',%20WPFootnote1%20))
+
+then approached Glik and asked if Glik's cell phone recorded audio. When
+Glik affirmed that he was recording audio, the officer placed him in
+handcuffs, arresting him for, inter alia, unlawful audio recording in
+violation of Massachusetts's wiretap statute. Glik was taken to the
+South Boston police station. In the course of booking, the police
+confiscated Glik's cell phone and a computer flash drive and held them
+as evidence.
+
+Glik was eventually charged with violation of the wiretap statute, Mass.
+Gen. Laws ch. 272, § 99(C)(1), disturbing the peace, id. ch. 272, §
+53(b), and aiding in the escape of a prisoner, id. ch. 268, § 17.
+Acknowledging lack of probable cause for the last of these charges, the
+Commonwealth voluntarily dismissed the count of aiding in the escape of
+a prisoner. In February 2008, in response to Glik's motion to dismiss,
+the Boston Municipal Court disposed of the remaining two charges for
+disturbance of the peace and violation of the wiretap statute. With
+regard to the former, the court noted that the fact that the "officers
+were unhappy they were being recorded during an arrest . . . does not
+make a lawful exercise of a First Amendment right a crime." Likewise,
+the court found no probable cause supporting the wiretap charge, because
+the law requires a secret recording and the officers admitted that Glik
+had used his cell phone openly and in plain view to obtain the video and
+audio recording.
+
+Glik filed an internal affairs complaint with the Boston Police
+Department following his arrest, but to no avail. The Department did not
+investigate his complaint or initiate disciplinary action against the
+arresting officers. In February 2010, Glik filed a civil rights action
+against the officers and the City of Boston in the United States
+District Court for the District of Massachusetts. The complaint included
+claims under 42 U.S.C. § 1983 for violations of Glik's First and Fourth
+Amendment rights, as well as state-law claims under the Massachusetts
+Civil Rights Act, Mass. Gen. Laws ch. 12, § 11I, and for malicious
+prosecution.
+
+The defendants moved to dismiss Glik's complaint under Federal Rule of
+Civil Procedure 12(b)(6), arguing that the allegations of the complaint
+failed to adequately support Glik's claims and that the officers were
+entitled to qualified immunity "because it is not well-settled that he
+had a constitutional right to record the officers." At a hearing on the
+motion, the district court focused on the qualified immunity defense,
+noting that it presented the closest issue. After hearing argument from
+the parties, the court orally denied the defendants' motion, concluding
+that "in the First Circuit . . . this First Amendment right publicly to
+record the activities of police officers on public business is
+established."
+
+This timely appeal followed. Denial of a motion to dismiss on qualified
+immunity grounds, unlike denial of a typical motion to dismiss, is
+immediately appealable on interlocutory review. Garnier v. Rodríguez,
+506 F.3d 22, 25 (1st Cir. 2007); cf. Hunter v. Bryant, 502 U.S. 224, 227
+(1991) (per curiam) (stressing "the importance of resolving immunity
+questions at the earliest possible stage in litigation"). We limit our
+review to the issue of qualified immunity, Garnier, 506 F.3d at 25,
+which is a legal determination that we review de novo, Raiche v.
+Pietroski, 623 F.3d 30, 35 (1st Cir. 2010).
+
+II.
+
+Long-standing principles of constitutional litigation entitle public
+officials to qualified immunity from personal liability arising out of
+actions taken in the exercise of discretionary functions. See Harlow v.
+Fitzgerald, 457 U.S. 800, 807 (1982); Barton v. Clancy, 632 F.3d 9, 21
+(1st Cir. 2011). The qualified immunity doctrine "balances two important
+interests -- the need to hold public officials accountable when they
+exercise power irresponsibly and the need to shield officials from
+harassment, distraction, and liability when they perform their duties
+reasonably." Pearson v. Callahan, 555 U.S. 223, 231 (2009). We apply a
+two-prong analysis in determining questions of qualified immunity.
+Maldonado v. Fontanes, 568 F.3d 263, 269 (1st Cir. 2009). These prongs,
+which may be resolved in any order, Pearson, 555 U.S. at 236, require
+that we decide "(1) whether the facts alleged or shown by the plaintiff
+make out a violation of a constitutional right; and (2) if so, whether
+the right was 'clearly established' at the time of the defendant's
+alleged violation," Maldonado, 568 F.3d at 269.
+
+The latter analysis of whether a right was "clearly established" further
+divides into two parts: "(1) 'the clarity of the law at the time of the
+alleged civil rights violation,' and (2) whether, given the facts of the
+particular case, 'a reasonable defendant would have understood that his
+conduct violated the plaintiff['s] constitutional rights.'" Barton, 632
+F.3d at 22 (alteration in original) (quoting Maldonado, 568 F.3d at
+269). An affirmative finding on these inquiries does "not require a case
+directly on point, but existing precedent must have placed the . . .
+constitutional question beyond debate." Ashcroft v. al-Kidd, 131 S. Ct.
+2074, 2083 (2011). At bottom, "the salient question is whether the state
+of the law at the time of the alleged violation gave the defendant fair
+warning that his particular conduct was unconstitutional." Maldonado,
+568 F.3d at 269.
+
+On appeal, appellants
+[![Footnote](/images/footnoteicon.gif)](javascript:WPShow('WPFootnote2',%20WPFootnote2%20))
+
+argue that they are entitled to qualified immunity on each of Glik's
+constitutional claims and, accordingly, that the district erred in
+denying their motion to dismiss.
+[![Footnote](/images/footnoteicon.gif)](javascript:WPShow('WPFootnote3',%20WPFootnote3%20))
+
+Their arguments track the two parts of the "clearly established right"
+analysis. With regard to the First Amendment claim, appellants dispute
+the clarity of the law establishing a First Amendment right to record
+police officers carrying out their public duties. On the Fourth
+Amendment claim, appellants contend that, in light of Massachusetts case
+law interpreting the state's wiretap statute, a reasonable officer would
+have believed there was probable cause to arrest Glik, and thus would
+not have understood that the arrest would violate the Fourth Amendment.
+We examine each argument in turn.
+
+A. Immunity from Glik's First Amendment Claim
+
+\1. Were Glik's First Amendment Rights Violated?
+
+The First Amendment issue here is, as the parties frame it, fairly
+narrow: is there a constitutionally protected right to videotape police
+carrying out their duties in public? Basic First Amendment principles,
+along with case law from this and other circuits, answer that question
+unambiguously in the affirmative.
+
+It is firmly established that the First Amendment's aegis extends
+further than the text's proscription on laws "abridging the freedom of
+speech, or of the press," and encompasses a range of conduct related to
+the gathering and dissemination of information. As the Supreme Court has
+observed, "the First Amendment goes beyond protection of the press and
+the self-expression of individuals to prohibit government from limiting
+the stock of information from which members of the public may draw."
+First Nat'l Bank v. Bellotti, 435 U.S. 765, 783 (1978); see also Stanley
+v. Georgia, 394 U.S. 557, 564 (1969) ("It is . . . well established that
+the Constitution protects the right to receive information and ideas.").
+An important corollary to this interest in protecting the stock of
+public information is that "[t]here is an undoubted right to gather news
+'from any source by means within the law.'" Houchins v. KQED, Inc., 438
+U.S. 1, 11 (1978) (quoting Branzburg v. Hayes, 408 U.S. 665, 681-82
+(1972)).
+
+The filming of government officials engaged in their duties in a public
+place, including police officers performing their responsibilities, fits
+comfortably within these principles. Gathering information about
+government officials in a form that can readily be disseminated to
+others serves a cardinal First Amendment interest in protecting and
+promoting "the free discussion of governmental affairs." Mills v.
+Alabama, 384 U.S. 214, 218 (1966). Moreover, as the Court has noted,
+"[f]reedom of expression has particular significance with respect to
+government because '[i]t is here that the state has a special incentive
+to repress opposition and often wields a more effective power of
+suppression.'" First Nat'l Bank, 435 U.S. at 777 n.11 (alteration in
+original) (quoting Thomas Emerson, Toward a General Theory of the First
+Amendment 9 (1966)). This is particularly true of law enforcement
+officials, who are granted substantial discretion that may be misused to
+deprive individuals of their liberties. Cf. Gentile v. State Bar of
+Nev., 501 U.S. 1030, 1035-36 (1991) (observing that "[t]he public has an
+interest in [the] responsible exercise" of the discretion granted police
+and prosecutors). Ensuring the public's right to gather information
+about their officials not only aids in the uncovering of abuses, see id.
+at 1034-35 (recognizing a core First Amendment interest in "the
+dissemination of information relating to alleged governmental
+misconduct"), but also may have a salutary effect on the functioning of
+government more generally, see Press-Enter. Co. v. Superior Court, 478
+U.S. 1, 8 (1986) (noting that "many governmental processes operate best
+under public scrutiny").
+
+In line with these principles, we have previously recognized that the
+videotaping of public officials is an exercise of First Amendment
+liberties. In Iacobucci v. Boulter, 193 F.3d 14 (1st Cir. 1999), a local
+journalist brought a § 1983 claim arising from his arrest in the course
+of filming officials in the hallway outside a public meeting of a
+historic district commission. The commissioners had objected to the
+plaintiff's filming. Id. at 18. When the plaintiff refused to desist, a
+police officer on the scene arrested him for disorderly conduct. Id. The
+charges were later dismissed. Id. Although the plaintiff's subsequent §
+1983 suit against the arresting police officer was grounded largely in
+the Fourth Amendment and did not include a First Amendment claim, we
+explicitly noted, in rejecting the officer's appeal from a denial of
+qualified immunity, that because the plaintiff's journalistic activities
+"were peaceful, not performed in derogation of any law, and done in the
+exercise of his First Amendment rights, [the officer] lacked the
+authority to stop them." Id. at 25 (emphasis added).
+
+Our recognition that the First Amendment protects the filming of
+government officials in public spaces accords with the decisions of
+numerous circuit and district courts. See, e.g., Smith v. City of
+Cumming, 212 F.3d 1332, 1333 (11th Cir. 2000) ("The First Amendment
+protects the right to gather information about what public officials do
+on public property, and specifically, a right to record matters of
+public interest."); Fordyce v. City of Seattle, 55 F.3d 436, 439 (9th
+Cir. 1995) (recognizing a "First Amendment right to film matters of
+public interest"); Demarest v. Athol/Orange Cmty. Television, Inc., 188
+F. Supp. 2d 82, 94-95 (D. Mass. 2002) (finding it "highly probable" that
+filming of a public official on street outside his home by contributors
+to public access cable show was protected by the First Amendment, and
+noting that, "[a]t base, plaintiffs had a constitutionally protected
+right to record matters of public interest"); Channel 10, Inc. v.
+Gunnarson, 337 F. Supp. 634, 638 (D. Minn. 1972) (holding that police
+interference with television newsman's filming of crime scene and
+seizure of video camera constituted unlawful prior restraint under First
+Amendment); cf. Schnell v. City of Chi., 407 F.2d 1084, 1085 (7th Cir.
+1969) (reversing dismissal for failure to state a claim of suit claiming
+police interference with news reporters and photographers'
+"constitutional right to gather and report news, and to photograph news
+events" under the First Amendment (internal quotation mark omitted)),
+overruled on other grounds by City of Kenosha v. Bruno, 412 U.S. 507
+(1973); Connell v. Town of Hudson, 733 F. Supp. 465, 471-72 (D.N.H.
+1990) (denying qualified immunity from First Amendment claim to police
+chief who prevented freelance photographer from taking pictures of car
+accident).
+
+It is of no significance that the present case, unlike Iacobucci and
+many of those cited above, involves a private individual, and not a
+reporter, gathering information about public officials. The First
+Amendment right to gather news is, as the Court has often noted, not one
+that inures solely to the benefit of the news media; rather, the
+public's right of access to information is coextensive with that of the
+press. Houchins, 438 U.S. at 16 (Stewart, J., concurring) (noting that
+the Constitution "assure[s] the public and the press equal access once
+government has opened its doors"); Branzburg, 408 U.S. at 684 ("[T]he
+First Amendment does not guarantee the press a constitutional right of
+special access to information not available to the public generally.").
+Indeed, there are several cases involving private individuals among the
+decisions from other courts recognizing the First Amendment right to
+film. See, e.g., Smith, 212 F.3d 1332; Robinson v. Fetterman, 378 F.
+Supp. 2d 534 (E.D. Pa. 2005) (holding that arrest of individual filming
+police activities from private property violated First Amendment);
+Cirelli v. Town of Johnston Sch. Dist., 897 F. Supp. 663 (D.R.I. 1995)
+(holding that teacher had a right under the First Amendment to videotape
+potentially hazardous working conditions at school, which were a matter
+of public concern). Moreover, changes in technology and society have
+made the lines between private citizen and journalist exceedingly
+difficult to draw. The proliferation of electronic devices with
+video-recording capability means that many of our images of current
+events come from bystanders with a ready cell phone or digital camera
+rather than a traditional film crew, and news stories are now just as
+likely to be broken by a blogger at her computer as a reporter at a
+major newspaper. Such developments make clear why the news-gathering
+protections of the First Amendment cannot turn on professional
+credentials or status.
+
+To be sure, the right to film is not without limitations. It may be
+subject to reasonable time, place, and manner restrictions. See Smith,
+212 F.3d at 1333. We have no occasion to explore those limitations here,
+however. On the facts alleged in the complaint, Glik's exercise of his
+First Amendment rights fell well within the bounds of the Constitution's
+protections. Glik filmed the defendant police officers in the Boston
+Common, the oldest city park in the United States and the apotheosis of
+a public forum. In such traditional public spaces, the rights of the
+state to limit the exercise of First Amendment activity are "sharply
+circumscribed." Perry Educ. Ass'n v. Perry Local Educators' Ass'n, 460
+U.S. 37, 45 (1983). Moreover, as in Iacobucci, the complaint indicates
+that Glik "filmed [the officers] from a comfortable remove" and "neither
+spoke to nor molested them in any way" (except in directly responding to
+the officers when they addressed him). 193 F.3d at 25. Such peaceful
+recording of an arrest in a public space that does not interfere with
+the police officers' performance of their duties is not reasonably
+subject to limitation.
+
+In our society, police officers are expected to endure significant
+burdens caused by citizens' exercise of their First Amendment rights.
+See City of Houston v. Hill, 482 U.S. 451, 461 (1987) ("[T]he First
+Amendment protects a significant amount of verbal criticism and
+challenge directed at police officers."). Indeed, "[t]he freedom of
+individuals verbally to oppose or challenge police action without
+thereby risking arrest is one of the principal characteristics by which
+we distinguish a free nation from a police state." Id. at 462-63. The
+same restraint demanded of law enforcement officers in the face of
+"provocative and challenging" speech, id. at 461 (quoting Terminiello v.
+Chicago, 337 U.S. 1, 4 (1949)), must be expected when they are merely
+the subject of videotaping that memorializes, without impairing, their
+work in public spaces.
+
+\2. Was the Right to Film Clearly Established?
+
+Though the "clearly established" inquiry does "not require a case
+directly on point," al-Kidd, 131 S. Ct. at 2083, we have such a case in
+Iacobucci. What is particularly notable about Iacobucci is the brevity
+of the First Amendment discussion, a characteristic found in other
+circuit opinions that have recognized a right to film government
+officials or matters of public interest in public space. See Smith, 212
+F.3d at 1333; Fordyce, 55 F.3d at 439. This terseness implicitly speaks
+to the fundamental and virtually self-evident nature of the First
+Amendment's protections in this area. Cf. Lee v. Gregory, 363 F.3d 931,
+936 (9th Cir. 2004) (noting that some constitutional violations are
+"self-evident" and do not require particularized case law to
+substantiate them). We thus have no trouble concluding that "the state
+of the law at the time of the alleged violation gave the defendant[s]
+fair warning that [their] particular conduct was unconstitutional."
+Maldonado, 568 F.3d at 269.
+
+We find unavailing the two cases principally relied upon by the
+appellants in arguing that the First Amendment right to film was not
+clearly established at the time of the arrest, both of which were
+decided after Glik's arrest. The first is an unpublished per curiam
+opinion from the Fourth Circuit that summarily concludes, with no
+discussion of the facts or relevant law, that the "right to record
+police activities on public property was not clearly established in this
+circuit at the time of the alleged conduct." Szymecki v. Houck, 353 F.
+App'x 852 (4th Cir. 2009). Such unpublished opinions "have no
+precedential force," Merrimac Paper Co. v. Harrison (In re Merrimac
+Paper Co.), 420 F.3d 53, 60 (1st Cir. 2005); see also United States v.
+King, 628 F.3d 693, 700 n.3 (4th Cir. 2011) (same), and the absence of
+substantive discussion deprives Szymecki of any marginal persuasive
+value it might otherwise have had.
+
+The second case appellants cite is a Third Circuit opinion finding the
+right to film not clearly established in the context of a traffic stop,
+characterized as an "inherently dangerous situation[]." Kelly v. Borough
+of Carlisle, 622 F.3d 248, 262 (3d Cir. 2010). Kelly is clearly
+distinguishable on its facts; a traffic stop is worlds apart from an
+arrest on the Boston Common in the circumstances alleged. Nonetheless,
+even if these cases were to establish a circuit split with respect to
+the clarity of the First Amendment's protections in the situation before
+us, that split would not undermine our conclusion that the right
+violated by appellants was clearly established in this circuit at the
+time of Glik's arrest. See Newman v. Massachusetts, 884 F.2d 19, 25 (1st
+Cir. 1989) (finding constitutional right clearly established in the
+First Circuit despite "recogni[tion] that the courts are not yet
+unanimous on whether this . . . right exists").
+
+In summary, though not unqualified, a citizen's right to film government
+officials, including law enforcement officers, in the discharge of their
+duties in a public space is a basic, vital, and well-established liberty
+safeguarded by the First Amendment. Accordingly, we hold that the
+district court did not err in denying qualified immunity to the
+appellants on Glik's First Amendment claim.
+
+B. Immunity from Glik's Fourth Amendment Claim
+
+\1. Were Glik's Fourth Amendment Rights Violated?
+
+The existence of a Fourth Amendment violation on the facts alleged here
+turns on a question of Massachusetts law. The Fourth Amendment requires
+that an arrest be grounded in probable cause, Martínez-Rodríguez v.
+Guevara, 597 F.3d 414, 420 (1st Cir. 2010), i.e., that, "at the time of
+the arrest, the 'facts and circumstances within the officer's knowledge
+. . . [were] sufficient to warrant a prudent person, or one of
+reasonable caution, in believing, in the circumstances shown, that the
+suspect [had] committed, [was] committing, or [was] about to commit an
+offense,'" Holder v. Town of Sandown, 585 F.3d 500, 504 (1st Cir. 2009)
+(quoting Michigan v. DeFillippo, 443 U.S. 31, 37 (1979)). The thrust of
+Glik's Fourth Amendment claim is that the appellants lacked any such
+probable cause that Glik had violated state law at the time of arrest.
+The appellants argue, to the contrary, that the allegations of the
+complaint establish probable cause that Glik violated Massachusetts's
+wiretap statute.
+[![Footnote](/images/footnoteicon.gif)](javascript:WPShow('WPFootnote4',%20WPFootnote4%20))
+
+Upon examination of the statute and relevant case law from
+Massachusetts's Supreme Judicial Court, we disagree.
+
+Massachusetts's wiretap statute makes it a crime to "willfully commit[]
+an interception . . . of any wire or oral communication." Mass. Gen.
+Laws ch. 272, § 99(C)(1). As the Supreme Judicial Court has noted, this
+statute sweeps more broadly than comparable laws in other jurisdictions,
+in that its prohibition is not restricted to the recording of
+communications that are made with a reasonable expectation of privacy.
+See Commonwealth v. Hyde, 750 N.E.2d 963, 967-68 & n.5 (Mass. 2001).
+[![Footnote](/images/footnoteicon.gif)](javascript:WPShow('WPFootnote5',%20WPFootnote5%20))
+
+The critical limiting term in the statute is "interception," defined to
+mean "to secretly hear, secretly record, or aid another to secretly hear
+or secretly record the contents of any wire or oral communication
+through the use of any intercepting device by any person other than a
+person given prior authority by all parties to such communication." Id.
+§ 99(B)(4).
+
+The relevant question, then, is whether, on the facts alleged in the
+complaint, Glik "secretly" videotaped the appellant officers.
+[![Footnote](/images/footnoteicon.gif)](javascript:WPShow('WPFootnote6',%20WPFootnote6%20))
+
+The Supreme Judicial Court has held that a recording is "secret" unless
+the subject has "actual knowledge" of the fact of recording.
+Commonwealth v. Jackson, 349 N.E.2d 337, 340 (Mass. 1976). It has also
+made clear that "actual knowledge" can be proven by "objective
+manifestations of knowledge" to "avoid the problems involved in
+speculating as to the [subject's] subjective state of mind." Id. at
+340-41. Moreover, the court has noted that "actual knowledge" does not
+require that there be any explicit acknowledgment of or reference to the
+fact of the recording. Id. at 340 ("[T]he person recording the
+conversation [need not] confirm the [subject's] apparent awareness by
+acknowledging the fact of the intercepting device."). Thus, in Hyde,
+where the defendant was convicted of a wiretap violation for secretly
+recording a traffic stop, the Supreme Judicial Court explained that "the
+recording would not have been secret" within the meaning of the statute
+if the defendant had simply "held the tape recorder in plain sight." 750
+N.E.2d at 971. The unmistakable logic of Hyde, building on Jackson, is
+that the secrecy inquiry turns on notice, i.e., whether, based on
+objective indicators, such as the presence of a recording device in
+plain view, one can infer that the subject was aware that she might be
+recorded.
+
+Commonwealth v. Rivera, 833 N.E.2d 1113 (Mass. 2005), forcefully
+illustrates this point. There, a criminal defendant argued for
+suppression under the wiretap statute of an audio recording by a
+convenience store security camera, on the theory that he lacked actual
+knowledge that the security cameras recorded audio as well as video.
+Although the case was resolved on other grounds, four of the seven
+justices of the Supreme Judicial Court concurred to note that the
+defendant's unawareness of the audio recording capabilities of the
+security cameras did not render the recordings "secret" under the
+wiretap statute where the cameras were in plain sight. Id. at 1125
+(Cowin, J., concurring in part) ("That the defendant did not know the
+camera also included an audio component does not convert this otherwise
+open recording into the type of 'secret' interception prohibited by the
+Massachusetts wiretap statute."); id. at 1130 (Cordy, J., concurring)
+("Just because a robber with a gun may not realize that the surveillance
+camera pointed directly at him is recording both his image and his voice
+does not . . . make the recording a 'secret' one within the meaning and
+intent of the statute.").
+
+The complaint alleges that Glik "openly record[ed] the police officers"
+with his cell phone, and further that "the police officers admitted Mr.
+Glik was publicly and openly recording them." On its face, this conduct
+falls plainly outside the type of clandestine recording targeted by the
+wiretap statute. See Jackson, 349 N.E.2d at 339 ("While we recognize
+that [the wiretap statute] is designed to control the use of electronic
+surveillance devices by private individuals because of the serious
+threat they pose to 'the privacy of all citizens,' (§ 99A), it is clear
+that the Legislature intended that the statutory restrictions be
+applicable only to the secret use of such devices." (emphasis added)).
+Moreover, not only does Hyde (along with the Rivera concurrences)
+indicate that the use of a recording device in "plain sight," as here,
+constitutes adequate objective evidence of actual knowledge of the
+recording, but here the police officers made clear through their conduct
+that they knew Glik was recording them. Specifically, one of the police
+officers approached Glik after the suspect had been handcuffed and told
+him, "I think you have taken enough pictures."
+
+The officers protest that Glik's use of a cell phone was insufficient to
+put them on notice of the recording. They note that a cell phone, unlike
+the tape recorder used in Hyde, has numerous discrete functions, such as
+text messaging, internet browsing, video gaming, and photography, and
+thus the fact of an individual holding out a cell phone in front of his
+body is of indeterminate significance. The argument suffers from factual
+as well as legal flaws. The allegations of the complaint indicate that
+the officers were cognizant of Glik's surveillance, knew that Glik was
+using his phone to record them in some fashion, and were aware, based on
+their asking Glik whether he was recording audio, that cell phones may
+have sound recording capabilities. The fact that a cell phone may have
+other functions is thus irrelevant to the question of whether Glik's
+recording was "secret."
+
+Appellants' argument reduces to the contention that, though they were
+aware of Glik's recording, they initially thought Glik was taking
+pictures of them rather than recording video and audio. This is almost
+precisely the argument rejected by the four concurring justices in
+Rivera, and it runs directly contrary to the logic of Hyde's "plain
+view" discussion. Taking the appellants' argument to its logical end,
+the Hyde defendant's recording would have escaped a wiretap offense only
+if he had held his tape recorder in plain view and there was affirmative
+evidence that the officers were aware that the device was switched on
+and recording audio. To the contrary, Hyde makes the point that the use
+in plain view of a device commonly known to record audio is, on its own,
+sufficient evidence from which to infer the subjects' actual knowledge
+of the recording. See 750 N.E.2d at 971 (noting that recording would not
+have been secret under the statute if "the defendant had simply informed
+the police of his intention to tape record the encounter, or even held
+the tape recorder in plain sight" (emphasis added)). Simply put, a
+straightforward reading of the statute and case law cannot support the
+suggestion that a recording made with a device known to record audio and
+held in plain view is "secret."
+
+We thus conclude, on the facts of the complaint, that Glik's recording
+was not "secret" within the meaning of Massachusetts's wiretap statute,
+and therefore the officers lacked probable cause to arrest him.
+Accordingly, the complaint makes out a violation of Glik's Fourth
+Amendment rights.
+
+\2. Was the Absence of Probable Cause Clearly Established Under the
+Circumstances?
+
+\
+
+Appellants contend that, regardless of whether Glik's conduct in fact
+violated the wiretap law, the state of the law was such that a
+reasonable officer would not have understood that arresting Glik for a
+wiretap offense under the circumstances alleged in the complaint would
+violate Glik's Fourth Amendment rights. They point out, rightly, that a
+lesser showing is required for an officer to be entitled to qualified
+immunity from a Fourth Amendment claim based on a warrantless arrest
+than to establish probable cause. See Cox v. Hainey, 391 F.3d 25, 31
+(1st Cir. 2004). Officers are entitled to qualified immunity "so long as
+the presence of probable cause is at least arguable." Ricci v. Urso, 974
+F.2d 5, 7 (1st Cir. 1992) (quoting Prokey v. Watkins, 942 F.2d 67, 72
+(1st Cir. 1991)).
+
+The presence of probable cause was not even arguable here. The
+allegations of the complaint establish that Glik was openly recording
+the police officers and that they were aware of his surveillance. For
+the reasons we have discussed, we see no basis in the law for a
+reasonable officer to conclude that such a conspicuous act of recording
+was "secret" merely because the officer did not have actual knowledge of
+whether audio was being recorded. We thus agree with the district court
+that, at this stage in the litigation, the officers are not entitled to
+qualified immunity from Glik's Fourth Amendment claim.
+
+III.
+
+For the reasons set forth above, we affirm the district court's order
+denying appellants' claim of qualified immunity.
+
+So ordered.
