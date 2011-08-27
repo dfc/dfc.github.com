@@ -446,6 +446,53 @@ Tabitha
 
 ### Twenty Five
 
+## Season Five
+
+### 7A WF 83429 
+
+### The Dogs of War 
+
+### Jefferson Lives 
+
+### Han 
+
+### Constituency of One 
+
+### Disaster Relief 
+
+### Separation of Powers 
+
+### Shutdown 
+
+### Abu el Banat 
+
+### The Stormy Present 
+
+### The Benign Prerogative 
+
+### Slow News Day 
+
+### OThe Warfare of Genghis Khan 
+
+### An Khe 
+
+### Full Disclosure 
+
+### Eppur si muove 
+
+### The Supremes 
+
+### Access 
+
+### Talking Points 
+
+### No Exit 
+
+### Gaza 
+
+### Memorial Day 
+
+
 
 
 
@@ -558,3 +605,28 @@ Tabitha
 #. Life on Mars
 #. Commencement
 #. Twenty Five
+
+### Season Five 
+
+#. 7A WF 83429
+#. The Dogs of War
+#. Jefferson Lives
+#. Han
+#. Constituency of One
+#. Disaster Relief
+#. Separation of Powers
+#. Shutdown
+#. Abu el Banat
+#. The Stormy Present
+#. The Benign Prerogative
+#. Slow News Day
+#. OThe Warfare of Genghis Khan
+#. An Khe
+#. Full Disclosure
+#. Eppur si muove
+#. The Supremes
+#. Access
+#. Talking Points
+#. No Exit
+#. Gaza
+#. Memorial Day
