@@ -143,3 +143,4 @@
 @400000004e5866f732bbd4c4 http://en.wikipedia.org/wiki/Orthography
 @400000004e5866f80795cf84 http://en.wikipedia.org/wiki/Topology
 @400000004e5866f8091dee54 http://en.wikipedia.org/wiki/Typography
+@400000004e58a6942465a274 http://en.wikipedia.org/wiki/Franking
