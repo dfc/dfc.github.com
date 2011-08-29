@@ -152,3 +152,4 @@
 @400000004e5b2a571831c384 http://en.wikipedia.org/wiki/Nuclear_football
 @400000004e5b2bc838672fa4 http://en.wikipedia.org/wiki/Presidential_Succession_Act
 @400000004e5b2cd32dfb56e4 http://en.wikipedia.org/wiki/Permissive_Action_Link
+@400000004e5b2d2e0211ea34 http://en.wikipedia.org/wiki/Two_Generals%27_Problem
