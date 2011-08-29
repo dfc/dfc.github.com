@@ -149,3 +149,4 @@
 @400000004e58a7f728c1c4ec http://en.wikipedia.org/wiki/Depository_Trust_%26_Clearing_Corporation
 @400000004e59268607f4c804 http://en.wikipedia.org/wiki/Order_of_battle
 @400000004e5b29a62f679114 http://en.wikipedia.org/wiki/Yankee_White
+@400000004e5b2a571831c384 http://en.wikipedia.org/wiki/Nuclear_football
