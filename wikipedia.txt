@@ -154,3 +154,4 @@
 @400000004e5b2cd32dfb56e4 http://en.wikipedia.org/wiki/Permissive_Action_Link
 @400000004e5b2d2e0211ea34 http://en.wikipedia.org/wiki/Two_Generals%27_Problem
 @400000004e5b2d36168269bc http://en.wikipedia.org/wiki/Dead_man%27s_switch
+@400000004e5b2d6d29adda6c http://en.wikipedia.org/wiki/Continuity_of_government
