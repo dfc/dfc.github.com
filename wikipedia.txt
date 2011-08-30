@@ -157,3 +157,4 @@
 @400000004e5b2d6d29adda6c http://en.wikipedia.org/wiki/Continuity_of_government
 @400000004e5b2d8526e252a4 http://en.wikipedia.org/wiki/Camp_David
 @400000004e5c5101181d0ad4 http://en.wikipedia.org/wiki/General_of_the_Army_%28United_States%29
+@400000004e5c510a23b1718c http://en.wikipedia.org/wiki/United_States_order_of_precedence
