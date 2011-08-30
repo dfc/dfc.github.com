@@ -161,3 +161,4 @@
 @400000004e5d3e5809da29d4 http://en.wikipedia.org/wiki/Microtech_Knives
 @400000004e5d56693ad8ef0c http://en.wikipedia.org/wiki/160th_Special_Operations_Aviation_Regiment_%28Airborne%29
 @400000004e5d5e7f0e0a1bcc http://en.wikipedia.org/wiki/Hesco_bastion
+@400000004e5d66ef0ac47264 http://en.wikipedia.org/wiki/DOCSIS
