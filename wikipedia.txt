@@ -164,3 +164,4 @@
 @400000004e5d66ef0ac47264 http://en.wikipedia.org/wiki/DOCSIS
 @400000004e63035020ce9904 http://en.wikipedia.org/wiki/Assisted_GPS
 @400000004e630d452f1346f4 http://en.wikipedia.org/wiki/Galileo_%28satellite_navigation%29
+@400000004e630d4f387f1ca4 http://en.wikipedia.org/wiki/Wide_Area_Augmentation_System
