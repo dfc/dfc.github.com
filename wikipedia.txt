@@ -170,3 +170,4 @@
 @400000004e63a9ee0ee2dffc http://en.wikipedia.org/wiki/Route_Views
 @400000004e63a9ee12d6e61c http://en.wikipedia.org/wiki/BGP
 @400000004e63a9ee1462ae6c http://en.wikipedia.org/wiki/Packet_Clearing_House
+@400000004e63a9ee1627610c http://en.wikipedia.org/wiki/Internet_exchange
