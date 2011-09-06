@@ -173,3 +173,4 @@
 @400000004e63a9ee1627610c http://en.wikipedia.org/wiki/Internet_exchange
 @400000004e63a9ee17c4d8b4 http://en.wikipedia.org/wiki/Internet_backbone
 @400000004e66a6dc1b5c630c http://en.wikipedia.org/wiki/Cooper_v._Aaron
+@400000004e66a6e603317f4c http://en.wikipedia.org/wiki/Seychelles
