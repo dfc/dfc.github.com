@@ -175,3 +175,4 @@
 @400000004e66a6dc1b5c630c http://en.wikipedia.org/wiki/Cooper_v._Aaron
 @400000004e66a6e603317f4c http://en.wikipedia.org/wiki/Seychelles
 @400000004e66a6f123c5209c http://en.wikipedia.org/wiki/Nullification_%28U.S._Constitution%29
+@400000004e66a76c15ba475c http://en.wikipedia.org/wiki/Interposition
