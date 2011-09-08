@@ -180,3 +180,4 @@
 @400000004e68fb5619472b24 http://en.wikipedia.org/wiki/China_Lake_Grenade_Launcher
 @400000004e68fb8834358c14 http://en.wikipedia.org/wiki/Grenade_launcher
 @400000004e68fb9404d2e2dc http://en.wikipedia.org/wiki/High-Low_System
+@400000004e68fb9f2c52273c http://en.wikipedia.org/wiki/United_States_Marine_Corps_Forces_Special_Operations_Command
