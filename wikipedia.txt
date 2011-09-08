@@ -182,3 +182,4 @@
 @400000004e68fb9404d2e2dc http://en.wikipedia.org/wiki/High-Low_System
 @400000004e68fb9f2c52273c http://en.wikipedia.org/wiki/United_States_Marine_Corps_Forces_Special_Operations_Command
 @400000004e68fba81772d0b4 http://en.wikipedia.org/wiki/M32_MGL
+@400000004e68fbb7205b497c http://en.wikipedia.org/wiki/Picatinny_rail
