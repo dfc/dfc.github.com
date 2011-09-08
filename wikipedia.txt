@@ -184,3 +184,4 @@
 @400000004e68fba81772d0b4 http://en.wikipedia.org/wiki/M32_MGL
 @400000004e68fbb7205b497c http://en.wikipedia.org/wiki/Picatinny_rail
 @400000004e68fcc20b73e85c http://en.wikipedia.org/wiki/HALO_jump
+@400000004e68fcd725aa4bbc http://en.wikipedia.org/wiki/Recoilless_rifle
