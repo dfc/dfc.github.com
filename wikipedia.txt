@@ -186,3 +186,4 @@
 @400000004e68fcc20b73e85c http://en.wikipedia.org/wiki/HALO_jump
 @400000004e68fcd725aa4bbc http://en.wikipedia.org/wiki/Recoilless_rifle
 @400000004e6bfafb07c130fc http://en.wikipedia.org/wiki/Mohawk_people
+@400000004e6d772239195cec http://en.wikipedia.org/wiki/Caucasian_Shepherd_Dog
