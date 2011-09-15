@@ -188,3 +188,4 @@
 @400000004e6bfafb07c130fc http://en.wikipedia.org/wiki/Mohawk_people
 @400000004e6d772239195cec http://en.wikipedia.org/wiki/Caucasian_Shepherd_Dog
 @400000004e6d772f3689345c http://en.wikipedia.org/wiki/Plenum_cable
+@400000004e714b2b284f1d5c http://en.wikipedia.org/wiki/Choke_ring_antenna
