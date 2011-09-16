@@ -198,3 +198,4 @@
 @400000004e72aca6009c3a24 http://en.wikipedia.org/wiki/Doomsday_rule
 @400000004e72acb236ba6234 http://en.wikipedia.org/wiki/Lewis_Carroll
 @400000004e72ad2416b9ae2c http://en.wikipedia.org/wiki/Gregorian_calendar
+@400000004e72ad2c1edc044c http://en.wikipedia.org/wiki/Papal_bull
