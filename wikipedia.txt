@@ -116,7 +116,7 @@
 @400000004e52294634f5caec http://en.wikipedia.org/wiki/Red_Mass
 @400000004e5284051272d4ec http://en.wikipedia.org/wiki/Damascus_steel
 @400000004e52904a112778cc http://en.wikipedia.org/wiki/Incendiary_device
-@400000004e52905f0b52b45c en.wikipedia.org/wiki/High_explosive
+@400000004e52905f0b52b45c http://en.wikipedia.org/wiki/High_explosive
 @400000004e55d4ca0744b1e4 http://en.wikipedia.org/wiki/Cinquain
 @400000004e5702741bf6b6dc http://en.wikipedia.org/wiki/Coordinated_Universal_Time
 @400000004e57027433d6be8c http://en.wikipedia.org/wiki/DUT1
@@ -193,5 +193,5 @@
 @400000004e71901014779dcc http://en.wikipedia.org/wiki/Antenna_tuner
 @400000004e7190250fd8e474 http://en.wikipedia.org/wiki/Circle_map
 @400000004e71902e15cc602c http://en.wikipedia.org/wiki/Kalman_filter
-@400000004e71903e21ae2f4c http://en.wikipedia.org/wiki/Phase_locked_loop#Clock_recovery
 @400000004e7190c42aacef34 http://en.wikipedia.org/wiki/Phase_locked_loop
+@400000004e7294c92a491c84 http://en.wikipedia.org/wiki/Manhattanhenge
