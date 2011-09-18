@@ -204,3 +204,4 @@
 @400000004e75545b0c6e6944 http://en.wikipedia.org/wiki/Letter_case
 @400000004e7554760769452c http://en.wikipedia.org/wiki/Sawzall_%28programming_language%29
 @400000004e7668ed36a5d864 http://en.wikipedia.org/wiki/Battle_of_Wanat
+@400000004e7668fc0ee554e4 http://en.wikipedia.org/wiki/Combat_Studies_Institute
