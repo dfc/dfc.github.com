@@ -202,3 +202,4 @@
 @400000004e72b3220e5dcd94 http://en.wikipedia.org/wiki/General_Orders_for_Sentries
 @400000004e73a0582f42712c http://en.wikipedia.org/wiki/Lemon_Party
 @400000004e75545b0c6e6944 http://en.wikipedia.org/wiki/Letter_case
+@400000004e7554760769452c http://en.wikipedia.org/wiki/Sawzall_%28programming_language%29
