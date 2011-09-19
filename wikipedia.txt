@@ -210,3 +210,4 @@
 @400000004e776d6c33aedb9c http://en.wikipedia.org/wiki/Aiguillette
 @400000004e776e5e073a78b4 http://en.wikipedia.org/wiki/German_Armed_Forces_Badge_of_Marksmanship
 @400000004e776f7b3b4db97c http://en.wikipedia.org/wiki/Blue_Infantry_Cord
+@400000004e776fed1141137c http://en.wikipedia.org/wiki/Touch_hole
