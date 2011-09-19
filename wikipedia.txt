@@ -206,3 +206,4 @@
 @400000004e7668ed36a5d864 http://en.wikipedia.org/wiki/Battle_of_Wanat
 @400000004e7668fc0ee554e4 http://en.wikipedia.org/wiki/Combat_Studies_Institute
 @400000004e77682d2f9d0894 http://en.wikipedia.org/wiki/Operation_Ivy_Bells
+@400000004e7769b935e1ec24 http://en.wikipedia.org/wiki/Presidential_Citizens_Medal
