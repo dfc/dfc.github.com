@@ -1,0 +1,9 @@
+% NTP Notes and Trivia
+% Douglas F. Calvert
+
+
+# Server Information
+
+http://timeserver.verschdl.de/server-test/
+
+
