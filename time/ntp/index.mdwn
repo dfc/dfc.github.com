@@ -4,6 +4,6 @@
 
 # Server Information
 
-http://timeserver.verschdl.de/server-test/
+http://timeserver.verschdl.de/server-test/ DEAD
 
 
